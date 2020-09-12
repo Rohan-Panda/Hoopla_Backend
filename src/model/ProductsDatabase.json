@@ -1,0 +1,593 @@
+
+[{
+  "_id": "1001",
+  "pRating": 3.5,
+  "pAvailability":661,
+  "pDetails":{
+      "pName": "Asus Zenfone Max Pro M2",
+      "pDescription": "an economical phone by Asus",
+      "pCategory": "Electronics",
+      "price": 14999,
+      "s_Id": "Asus@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 661,
+      "pShippingCharges": 150,
+      "pImage": "Zenfone Max Pro M2.png",
+      "specification": { "mobile": {
+          "color": "Black",
+          "os": "Android",    
+          "ram": "3 GB RAM",
+          "processor": "Qualcomm Snapdragon 660 Octa Core Processor",
+          "rearCamera": "12MP",
+          "frontCamera": "5MP"
+          }
+      }
+  },
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1002",
+  "pRating": 4,
+  "pAvailability":665,
+  "pDetails":{
+      "s_Id": "Xiaomi@Seller",
+      "pName": "Redmi Note 6 Pro",
+      "pDescription": "an economical phone by Xiaomi",
+      "pCategory": "Electronics",
+      "price": 13999,
+      "pDiscount": 0.2,
+      "pQuantity": 665,
+      "pShippingCharges": 150,
+      "pImage": "Redmi note 6 Pro.jpg",
+      "specification": {"mobile": {
+          "color": "Black",
+          "os": "Android",    
+          "ram": "3 GB RAM",
+          "rearCamera": "12MP",
+          "frontCamera": "5MP"
+          }}
+  },
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+
+{
+  "_id": "1003",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "Moto G7 Plus",
+      "pDescription": "a prime phone by Moto",
+      "pCategory": "Electronics",
+      "price": 23599,
+      "pImage": "moto-g7.jpg",
+      "s_Id": "Moto@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "specification": { "mobile": {
+          "color": "Silver",
+          "os": "Android",    
+          "ram": "3 GB RAM",
+          "rearCamera": "12MP",
+          "frontCamera": "5MP"
+          }}
+  },
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+
+{
+  "_id": "1004",
+  "pRating": 4.5,
+  "pAvailability":666,
+  "pDetails":
+  {
+      "s_Id": "Lenovo@Seller",
+      "pName": "Lenovo Tab 2 A8-50",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pDescription": "a high end phone by Lenovo",
+      "pCategory": "Electronics",
+      "price": 19999,
+      "pImage": "lenovoTab.png",
+      "specification": {"laptop":{
+          "color": "blue",
+          "os": "Windows 10",
+          "ram": "6 GB",
+          "hdd": "1 TB",
+          "processor": "intel 17 core",
+          "warranty": "1 year"
+      }}
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1005",
+  "pRating": 4.9,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "iphone 8 plus",
+      "pDescription": "a high end phone by apple",
+      "pCategory": "Electronics",
+      "price": 79999,
+      "s_Id": "Apple@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "Iphone 8 plus-1.jpg",
+      "specification": { "mobile": {
+          "color": "Rose Gold",
+          "os": "Android",    
+          "ram": "3 GB RAM",
+          "rearCamera": "12MP",
+          "frontCamera": "5MP"
+          }}
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1006",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":
+  {
+  "pName": "Adidas Running Men Lite",
+  "pDescription": "a pair of light weight running shoes by adidas",
+  "pCategory": "Shoes",
+  "price": 2599,
+  "s_Id": "Adidas@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "adidas.jpeg",
+  "specification":{"shoes":{
+      "color": "Grey blue",
+      "outerMaterial": "Synthetic",
+      "idealFor": "men/women",
+      "soleMaterial": "Rubber/synthetic",
+      "warranty":"1 year"}}
+  
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+
+},
+{
+  "_id": "1007",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "Adidas Running Women Lite",
+      "pDescription": "a pair of light weight running shoes by adidas",
+      "pCategory": "Shoes",
+      "price": 2599,
+      "s_Id": "Adidas@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "Shoes.jpg",
+      "specification":{"shoes":{
+          "color": "pink",
+          "outerMaterial": "Synthetic",
+          "idealFor": "women",
+          "soleMaterial": "Rubber/synthetic",
+         " warranty":"1 year"}}
+      
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+  
+},
+{
+  "_id": "1008",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "Adidas Running Men robust",
+      "pDescription": "A pair of robust running shoes by adidas",
+      "pCategory": "Shoes",
+      "price": 3599,
+      "s_Id": "Adidas@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "adidas 1.jpg",
+      "specification":{"shoes":{
+          "color": "black",
+          "outerMaterial": "Synthetic",
+          "idealFor": "men",
+          "soleMaterial": "Rubber/synthetic",
+         " warranty":"1 year"}}
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1009",
+  "pRating": 3,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "Reebok training shoes",
+      "pDescription": "A pair of light weight training shoes by Reebok",
+      "pCategory": "Shoes",
+      "price": 1599,
+      "s_Id": "Reebok@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "Reebok 1.jpg",
+      "specification": {"shoes":{"color": "black",
+          "outerMaterial": "Synthetic",
+          "idealFor": "men/women",
+          "soleMaterial": "Rubber/synthetic",
+         " warranty":"1 year"}}
+      
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1010",
+  "pRating": 4.6,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "Nike Running Men Lite",
+      "pDescription": "a pair of light weight running shoes by Nike",
+      "pCategory": "Shoes",
+      "price": 6599,
+      "s_Id": "Nike@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "nike max air.jpg",
+      "specification": {"shoes":{"color": "green",
+          "outerMaterial": "Synthetic",
+          "idealFor": "men",
+          "soleMaterial": "Rubber/synthetic",
+         " warranty":"1 year"}}
+      
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+
+},
+{
+  "_id": "1011",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":{
+
+      "pName": "Luxury Bed by Zuari",
+      "pDescription": "sunmica finished zuari luxury bed",
+      "pCategory": "Furniture",
+      "price": 8999,
+      "s_Id": "Zuari@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "Zuari furnitures.jpg",
+      "specification":{ "furniture": {
+          " color": "Beige",
+           "size": "40*20",
+          " type": "Table",
+           "warranty": "1 Year"
+           }}
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1012",
+  "pRating": 4.3,
+  "pAvailability":666,
+  "pDetails":{
+  "pName": "Organised Cupboards by Zuari",
+  "pDescription": "sunmica finished zuari cupboards",
+  "pCategory": "Furniture",
+  "price": 6999,
+  "s_Id": "Zuari@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "Zuari furnitures 1.jpg",
+  "specification": { "furniture": {
+      " color": "Coffee Brown",
+       "size": "40*20",
+      " type": "Table",
+       "warranty": "1 Year"
+       }}
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1013",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":{
+  "pName": "Dressing Table by Zuari",
+  "pDescription": "sunmica finished zuari Dressing table",
+  "pCategory": "Furniture",
+  "price": 8599,
+  "s_Id": "Zuari@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "Swann-Dressing-1.jpg",
+  "specification": {"furniture": {
+      " color": "Beige",
+       "size": "40*20",
+      " type": "Table",
+       "warranty": "1 Year"
+       }}
+
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1014",
+  "pRating": 4.8,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "Recliner sofa set by Grihshobha",
+      "pDescription": "A luxurious and comfortable sofa set by Grihshobha furniture makers",
+      "pCategory": "Furniture",
+      "price": 12500,
+      "s_Id": "Grihshobha@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "Recliner furniture 1.jpg",
+      "specification":{ "furniture": {
+          " color": "Dark grey",
+           "size": "40*20",
+          " type": "Table",
+           "warranty": "1 Year"
+           }}
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1015",
+  "pRating": 4.4,
+  "pAvailability":666,
+  "pDetails":{
+  "pName": "Dining table by @HOME",
+  "pDescription": "Teak wood dining table with glass top",
+  "pCategory": "Furniture",
+  "price": 18999,
+  "s_Id": "HOME@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "Dining-Table.jpg",
+  "specification": {"furniture": {
+     " color": "brown",
+      "size": "40*20",
+     " type": "Table",
+      "warranty": "1 Year"
+      }}
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1016",
+  "pRating": 4,
+  "pAvailability":666,
+  "pDetails":{
+  "pName": "Kurta Plazzo set ethnic for women",
+  "pDescription": "embroidery work kurta plazzo set for women",
+  "pCategory": "Clothing",
+  "price": 1499,
+  "s_Id": "Ethnic@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "Women Ethnic Kurta 1.jpg",
+  "specification":{"clothes": {"color": "orange",
+      "fabric":"Cotton-ambroidary",
+      "idealFor": "Women",
+      "warranty": "1 year"}}
+      
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1017",
+  "pRating": 4.8,
+  "pAvailability":666,
+  "pDetails":
+  {
+  "pName": "Cotton silk saree by FabIndia",
+  "pDescription": "cotton silk hand woven sarees by Fabindia",
+  "pCategory": "Clothing",
+  "price": 5900,
+  "s_Id": "FabIndia@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "Saree.jpg",
+  "specification": {"clothes": {"color": "red",
+      "fabric":"Cotton-Silk",
+      "idealFor": "Women",
+      "warranty": "1 year"}}
+      
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1018",
+  "pRating": 4.8,
+  "pAvailability":666,
+  "pDetails":{
+  "pName": "Virat's Special for men ethnic",
+  "pDescription": "Festive season special woven black woollen coat for men",
+  "pCategory": "Clothing",
+  "price": 1900,
+  "s_Id": "Ethnic@Seller",
+  "pDiscount": 0.2,
+  "pQuantity": 666,
+  "pShippingCharges": 150,
+  "pImage": "Men ethnic.jpg",
+  "specification":{"clothes": {"color": "black",
+      "fabric":"Cotton",
+      "idealFor": "Men",
+      "warranty": "1 year"}}
+      
+  },
+  
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1019",
+  "pRating": 4.8,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "US Polo T-shirt",
+      "pDescription": "100 % pure cotton t shirt by US polo",
+      "pCategory": "Clothing",
+      "price": 3299,
+      "s_Id": "USPolo@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "US -Polo 1.jpeg",
+      "specification": {"clothes": {"color": "orange",
+          "fabric":"Cotton",
+          "idealFor": "Men",
+          "warranty": "1 year"}}
+          
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+},
+{
+  "_id": "1020",
+  "pRating": 4.2,
+  "pAvailability":666,
+  "pDetails":{
+      "pName": "UCB T-shirt",
+      "pDescription": "100 % pure cotton t shirt by UCB",
+      "pCategory": "Clothing",
+      "price": 1900,
+      "s_Id": "UCB@Seller",
+      "pDiscount": 0.2,
+      "pQuantity": 666,
+      "pShippingCharges": 150,
+      "pImage": "UCB tshirt.jpg",
+      "specification": {"clothes": {"color": "blue",
+          "fabric":"Cotton",
+          "idealFor": "Men",
+          "warranty": "1 year"}}
+          
+  },
+ 
+  "dateFirstAvailable": {
+    "$date": "2012-09-17T00:00:00.000Z"
+  },
+  "dateLastAvailable": {
+    "$date": "2017-09-17T00:00:00.000Z"
+  }
+}]
